@@ -82,8 +82,10 @@ This project generates human-like captions for images using a deep learning mode
 ##  Sample Output
 <img width="710" height="679" alt="image" src="https://github.com/user-attachments/assets/6d41dc81-b527-47fd-ad3d-275520bfc229" />
 
-
-
+# To improve caption accuracy, we can:
+- Use a larger dataset
+- Include color/gender attributes as part of supervised training 
+  
 
 
 
