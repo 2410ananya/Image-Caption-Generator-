@@ -80,7 +80,9 @@ This project generates human-like captions for images using a deep learning mode
   Open Image_Caption_Generator.ipynb in Jupyter Notebook or Colab
 
 ##  Sample Output
-<img width="912" height="1563" alt="image" src="https://github.com/user-attachments/assets/52bf08ba-0210-42d5-af8d-e5b448f0c206" />
+<img width="711" height="677" alt="image" src="[https://github.com/user-attachments/assets/530f1ac1-25ee-41e8-b09a-b70cfeec18d](https://github.com/user-attachments/assets/530f1ac1-25ee-41e8-b09a-b70cfeec18d0)0" />
+
+
 
 
 
