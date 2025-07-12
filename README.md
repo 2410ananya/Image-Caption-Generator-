@@ -1,4 +1,4 @@
-<img width="1371" height="653" alt="image" src="https://github.com/user-attachments/assets/1ff1d987-f559-46d9-908d-b6173059309d" /># Image-Caption-Generator-
+# Image-Caption-Generator-
 Image Caption Generator using Deep Learning on Flickr8K dataset
 # Image Caption Generator using CNN + LSTM (Flickr8k Dataset)
 
